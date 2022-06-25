@@ -1,0 +1,17 @@
+{
+  "name": "cloudflare-dns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Stefifox",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-cron": "^3.0.1",
+    "uuid": "^8.3.2"
+  }
+}
