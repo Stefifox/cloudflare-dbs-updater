@@ -104,3 +104,4 @@ dist
 .tern-port
 
 appsettings.json
+pnpm-lock.yaml
